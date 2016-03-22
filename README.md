@@ -15,3 +15,7 @@ Array Fiddles
 * **compact:** http://jsfiddle.net/kcmLh/
 
 If you finish all the fiddes, do the 'aboutArrays' section of the Koans here https://github.com/devmountain/js-koans
+
+## Copyright
+
+© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
